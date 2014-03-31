@@ -1,3 +1,5 @@
+" vim:se ff=unix:
+
 if exists('loaded_vertical_help') && !exists('testing_vertical_help')
     finish
 endif
